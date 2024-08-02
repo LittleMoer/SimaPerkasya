@@ -1,0 +1,162 @@
+<html>
+<head>
+<style type="text/css" media="print"> 
+  div.no_print {display: none; } 
+</style>  
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css">
+ <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.3.min.js"></script>  
+  
+<script type="text/javascript" src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script> 
+  
+<script type="text/javascript">
+$(document).ready(function(){
+ $("#mytable").DataTable();                 
+});  
+</script>  
+  
+
+</head>
+<body>
+<div class="no_print">  
+  <p><input type="button" value="Tambahkan akun">
+</div>  
+<table id="mytable" class = "display" >  
+   <thead> 
+    <tr>  
+      <td><b>id</b></td>
+      <td><b>first_name</b></td>
+      <td><b>last_name</b></td>
+    </tr>
+   </thead> 
+   <tfoot> 
+    <tr>  
+      <td><b>id</b></td>
+      <td><b>first_name</b></td>
+      <td><b>last_name</b></td>
+    </tr>
+   </tfoot>
+    <tr>
+      <td>1</td>
+      <td>f_a</td>
+      <td>l_a</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>f_b</td>
+      <td>l_b</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>f_c</td>
+      <td>l_c</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>f_d</td>
+      <td>l_d</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>f_e</td>
+      <td>l_e</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>f_f</td>
+      <td>l_f</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>f_g</td>
+      <td>l_g</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>f_h</td>
+      <td>l_h</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>f_i</td>
+      <td>l_i</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>f_j</b></td>
+      <td>l_j</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>f_k</td>
+      <td>l_k</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>f_l</td>
+      <td>l_l</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>f_m</b></td>
+      <td>l_m</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>f_n</td>
+      <td>l_n</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>f_o</td>
+      <td>l_o</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>f_p</td>
+      <td>l_p</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>f_q</td>
+      <td>l_q</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>f_r</td>
+      <td>l_r</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>f_s</td>
+      <td>l_s</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>f_t</td>
+      <td>l_t</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>f_u</td>
+      <td>l_u</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>f_v</td>
+      <td>l_v</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>f_w</td>
+      <td>l_w</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>f_x</td>
+      <td>l_x</td>
+    </tr>
+</table>
+<hr>
+
+</body>
+</html>
