@@ -11,5 +11,3 @@ Laravel as Framework
 ## Sima Perkasya
 
 Sima Perkasya adalah perusahaan sewa bus pariwisata 
-
-<img src="https://i.ibb.co.com/VQ9FPL3/fitur.png" alt="Fitur">
